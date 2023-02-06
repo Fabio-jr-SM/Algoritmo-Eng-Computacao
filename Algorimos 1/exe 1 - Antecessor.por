@@ -6,6 +6,6 @@ programa {
     escreva("Digite um numero: ")
     leia(numero)
 
-    escreva("O numero é: ", numero, " e seu antecessor: ", numero-1)
+    escreva("O numero Ã©: ", numero, " e seu antecessor: ", numero-1)
   }
 }
