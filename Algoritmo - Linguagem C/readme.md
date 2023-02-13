@@ -13,4 +13,4 @@ Explicação: este comando efetua uma leitura do teclado onde é esperada uma va
 
 Na lista de argumentos devemos indicar os endereços das variáveis. Para fazer isso adicionamos o símbolo  “&”  como prefixo na frente do nome da variável.
 
-<img src="/img/declaracao de variaveis.png">
+<img src="/img/declaracao%20de%20variaveis.png">
