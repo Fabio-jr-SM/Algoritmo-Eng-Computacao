@@ -14,3 +14,7 @@ Explicação: este comando efetua uma leitura do teclado onde é esperada uma va
 Na lista de argumentos devemos indicar os endereços das variáveis. Para fazer isso adicionamos o símbolo  “&”  como prefixo na frente do nome da variável.
 
 <img src="https://github.com/Fabio-jr-SM/Algoritmo-Eng-Computacao/blob/main/Algoritmo%20-%20Linguagem%20C/img/declaracao%20de%20variaveis.png">
+
+
+## Bibliotecas em C
+http://linguagemc.com.br/bibliotecas/
