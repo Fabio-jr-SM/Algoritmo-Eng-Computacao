@@ -5,11 +5,10 @@ programa
 	{
 
 		inteiro op,entrevistado=1,cont_comp=0,cont_controle=0,cont_eletrica=0
-
-		escreva("Digite qual opção o aluno escolheu:\n1.Eng da Computação\n2.Eng de Controle e Automação\n3.Eng Eletrica\n")
-		leia(op)
 	
 		enquanto(entrevistado<=5){
+			escreva("Digite qual opção o aluno escolheu:\n1.Eng da Computação\n2.Eng de Controle e Automação\n3.Eng Eletrica\n")
+			leia(op)
 			se(op==1){
 				cont_comp++
 			}senao{
@@ -23,8 +22,6 @@ programa
 					}
 				}
 			}
-			escreva("Digite qual opção o aluno escolheu:\n1.Eng da Computação\n2.Eng de Controle e Automação\n3.Eng Eletrica\n")
-			leia(op)
 			entrevistado++
 		}
 
@@ -39,7 +36,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 223; 
+ * @POSICAO-CURSOR = 260; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
